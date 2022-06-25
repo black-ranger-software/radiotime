@@ -2,11 +2,11 @@
 
 [![Financial Contributors on Open Collective](https://opencollective.com/libretime/all/badge.svg?label=financial+contributors)](https://opencollective.com/libretime)
 
-LibreTime makes it easy to run your own online or terrestrial radio station. It
+RadioTime is a direct knock-off of LibreTime, and makes it easy to run your own online or terrestrial radio station. It
 is a community managed fork of the AirTime project.
 
 It is managed by a friendly inclusive community of stations from around the
-globe that use, document and improve LibreTime. Join us in fixing bugs and in
+globe that use, document and improve RadioTime. Join us in fixing bugs and in
 defining how we manage the codebase going forward.
 
 We are currently ramping up development on this repository.
